@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 20px;
+}
+
+body{
+    background-image: url(https://images.pexels.com/photos/6938704/pexels-photo-6938704.jpeg);
+    background-size: cover;
+}
+
+header{
+   position: sticky;
+    top: 0;
+}
+
+
+h1{
+    color: brown;
+    margin-left: 10px;
+    margin-right: 500px;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+#page-subtitle{
+    color: bisque;
+    margin-left: 10px;
+    margin-right: 500px;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+#subtitle-page{
+    color: chocolate;
+    margin-left: 10px;
+    margin-right: 980px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+.container {
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 500px;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+.text{
+    font-size: 20px;
+    color: darkred;
+    margin-left: 10px;
+    margin-right: 100px;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+#link{
+    color: cadetblue;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.35);
+    margin-right: 550px;
+}
+
+
+.link{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
